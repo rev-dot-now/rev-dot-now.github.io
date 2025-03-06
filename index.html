@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>rev.now</title>
+  <script>
+const resizeHandler = () => {
+  const vidElement = document.getElementById('video')
+
+  vidElement.setAttribute('style', `
+    width: ${window.innerWidth}px;
+    height: ${window.innerHeight}px;
+  `)
+}
+
+window.addEventListener('resize', resizeHandler)
+document.addEventListener("DOMContentLoaded", resizeHandler);
+  </script>
+  <style>
+    html { height: 100%; }
+
+    body { margin: 0; }
+  </style>
+</head>
+<body>
+  <iframe id="video" src="https://www.youtube.com/embed/oVqXROK-aJg?si=USM9nQvKhdTyNEB1?rel=0&autoplay=1&vq=hd1080" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
