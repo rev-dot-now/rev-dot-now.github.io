@@ -4,26 +4,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>rev.now</title>
-  <script>
-const resizeHandler = () => {
-  const vidElement = document.getElementById('video')
-
-  vidElement.setAttribute('style', `
-    width: ${window.innerWidth}px;
-    height: ${window.innerHeight}px;
-  `)
-}
-
-window.addEventListener('resize', resizeHandler)
-document.addEventListener("DOMContentLoaded", resizeHandler);
-  </script>
   <style>
     html { height: 100%; }
 
-    body { margin: 0; }
+    body { heighT: 100%; margin: 0; background-color: rgb(2, 14, 20); color: #fff }
+
+    .frame {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+    }
+
+    .everything-bagel {
+      width: 66.6vmin;
+      height: 66.6vmin;
+    }
   </style>
+  <script>
+    console.log('Summoning Satan on your hard drive in 3... 2... 1...')
+  </script>
 </head>
 <body>
-  <iframe id="video" src="https://www.youtube.com/embed/e_K-J7TXSNw?si=I8WarrAXpd8v_kUo?rel=0&autoplay=1&vq=hd1080" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <div class="frame">
+    <img class="everything-bagel" src="/logo.webp" alt="Official bagel of the Network State™️" />
+  </div>
+  <!-- Hey, sorry for like calling for a counter-revolution and all that. -->
+  <!-- We former Marines don't really like regime changes. -->
+  <!-- But I got bills to pay and can't be bothered with all that. -->
 </body>
 </html>
