@@ -12,10 +12,10 @@ function getRandomElement(arr) {
   return arr[getRandomInt(0, arr.length - 1)]
 }
 
-const SYLLABLE_OCCURRENCE_INTERVAL_MIN = 666
-const SYLLABLE_OCCURRENCE_INTERVAL_MAX = 1260
-const SYLLABLE_LENGTH_INTERVAL_MIN = 12
-const SYLLABLE_LENGTH_INTERVAL_MAX = 7 * 12
+const SYLLABLE_OCCURRENCE_INTERVAL_MIN = 600
+const SYLLABLE_OCCURRENCE_INTERVAL_MAX = 2000
+const SYLLABLE_LENGTH_INTERVAL_MIN = 60
+const SYLLABLE_LENGTH_INTERVAL_MAX = 170
 
 const REBUKES = [
   "יִגְעַר יְהוָה בְּךָ הַשָּׂטָן", // "May the LORD rebuke you, Satan."
