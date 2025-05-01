@@ -85,12 +85,6 @@ li {
   margin: var(--list-item-margin);
 }
 
-img {
-  display: block;
-  max-width: 77.7%;
-  margin: 0 auto;
-}
-
 .frame {
   display: flex;
   flex-direction: column;

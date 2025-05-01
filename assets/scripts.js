@@ -1,5 +1,5 @@
 // Function to toggle the data-theme attribute based on the browser's color scheme
-function toggleThemeBasedOnPreference() {
+const toggleThemeBasedOnPreference = () => {
   const bodyElement = document.querySelector('body');
   if (!bodyElement) {
       console.error('Element with class body not found.');
@@ -23,4 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Add an event listener to detect changes in the color scheme preference
-window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', toggleThemeBasedOnPreference);
+window
+  .matchMedia('(prefers-color-scheme: dark)')
+  .addEventListener('change', toggleThemeBasedOnPreference);
