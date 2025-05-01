@@ -1,3 +1,6 @@
+const SYLLABLE_OCCURRENCE_INTERVAL = 7000
+const SYLLABLE_LENGTH_INTERVAL = 12
+
 document.addEventListener('DOMContentLoaded', function() {
   const imageElement = document.querySelector('#crosses');
 
@@ -8,13 +11,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const glitchSrc = 'assets/crosses-glitch.png';
 
     setTimeout(() => {
-      console.log('test')
       imageElement.src = glitchSrc;
       setTimeout(() => {
         imageElement.src = originalSrc;
         toggleImage()
-      }, 100);
-    }, Math.random() * 3000); // Random interval up to 5 seconds
+      }, SYLLABLE_LENGTH_INTERVAL);
+    }, Math.random() * SYLLABLE_OCCURRENCE_INTERVAL); // Random interval up to 5 seconds
   }
 
   toggleImage();

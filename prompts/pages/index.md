@@ -1,4 +1,5 @@
 <img id="crosses" src="/assets/crosses.png" alt="Revival Now Crosses Image" />
+<link rel="prefetch" href="/assets/crosses-glitch.png" >
 
 # Revival Now: The Simple Path to Salvation and Spiritual Growth
 
