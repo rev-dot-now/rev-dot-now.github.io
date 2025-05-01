@@ -37,8 +37,8 @@ document.addEventListener('DOMContentLoaded', function() {
   if (!imageElement) return;
 
   function toggleImage() {
-    const originalSrc = 'assets/crosses.png';
-    const glitchSrc = 'assets/crosses-glitch.png';
+    const originalSrc = '/assets/crosses.png';
+    const glitchSrc = '/assets/crosses-glitch.png';
 
     setTimeout(() => {
       imageElement.src = glitchSrc;
