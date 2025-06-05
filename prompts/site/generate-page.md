@@ -11,3 +11,4 @@ with the markdown content.
 - The template file is named {template_file} (default: `prompts/site/page.html`).
 - Replace the `{content}` variable in the template file with the parsed Markdown.
 - Output the result to {output_file}.
+- Exit!
