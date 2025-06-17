@@ -5,132 +5,58 @@
   </div>
 </div>
 
-# Revival Now: The Simple Path to Salvation and Spiritual Growth
+# rev.now
 
-Revival Now emphasizes the straightforward path to salvation as taught by Jesus Christ, rooted in understanding and living the greatest commandments.
+Christianity is very simple. We enter into a relationship with God through
+Jesus Christ. We enter into God by loving them with all our heart, mind, soul,
+and strength. And God enters into us by loving our neighbors as ourselves.
+Treating them as Jesus would treat them.
 
-Join us in exploring the teachings of Jesus Christ and discover how you can deepen your spiritual journey by embracing these fundamental truths.
+This is the essence of Christianity and the mission of rev.now.
 
----
-
-## Jesus' Teaching on the Most Important Commandments
-
-Explore Jesus Christ's core teachings on the paramount commandments that form the foundation of spiritual growth and salvation. Jesus emphasized the importance of loving God wholeheartedly and extending that love to our neighbors. By understanding and living these commandments, we align ourselves with the essence of Christian faith, fostering a deeper connection with God and a compassionate relationship with those around us.
-
-### ❤️ Love God
-
-These scriptures highlight the commandment to love God with all your heart, soul, mind, and strength, underscoring wholehearted devotion as the essence of faith.
-
-- **[Deuteronomy 6:4–5](https://www.biblegateway.com/passage/?search=Deuteronomy6:4–5&version=ESV)**  
-  > Hear, O Israel: The Lord our God, the Lord is one.
-  > You shall love the Lord your God with all your heart and with all your soul
-  > and with all your might.
-
-- **[Matthew 22:37–38](https://www.biblegateway.com/passage/?search=Matthew22:37–38&version=ESV)**  
-  > And he said to him, "You shall love the Lord your God with all your heart
-  > and with all your soul and with all your mind.
-  > This is the great and first commandment."
-
-- **[Mark 12:29–30](https://www.biblegateway.com/passage/?search=Mark12:29–30&version=ESV)**  
-  > Jesus answered, ‘The most important is, “Hear, O Israel: The Lord our God,
-  > the Lord is one.
-  > And you shall love the Lord your God with all your heart and with all your
-  > soul and with all your mind and with all your strength.”
-
-- **[Luke 10:27](https://www.biblegateway.com/passage/?search=Luke10:27&version=ESV)**  
-  > And he answered, "You shall love the Lord your God with all your heart and
-  > with all your soul and with all your strength and with all your mind,
-  > and your neighbor as yourself."
-
-- **[1 John 5:1–3](https://www.biblegateway.com/passage/?search=1John5:1–3&version=ESV)**  
-  > Everyone who believes that Jesus is the Christ has been born of God, and
-  > everyone who loves the Father loves whoever has been born of him.
-  > By this we know that we love the children of God, when we love God and obey
-  > his commandments.
-  > For this is the love of God, that we keep his commandments. And his
-  > commandments are not burdensome.
-
-### 🤝 Love Your Neighbor as Yourself
-
-These passages emphasize loving your neighbor as yourself, highlighting compassion, service, and forgiveness as vital expressions of faith.
-
-- **[Leviticus 19:18](https://www.biblegateway.com/passage/?search=Leviticus19:18&version=ESV)**  
-  > You shall not take vengeance or bear a grudge against the sons of your own
-  > people,
-  > but you shall love your neighbor as yourself: I am the Lord.
-
-- **[Matthew 22:39–40](https://www.biblegateway.com/passage/?search=Matthew22:39–40&version=ESV)**  
-  > And a second is like it: You shall love your neighbor as yourself.
-  > On these two commandments depend all the Law and the Prophets.
-
-- **[Mark 12:31](https://www.biblegateway.com/passage/?search=Mark12:31&version=ESV)**  
-  > The second is this: "You shall love your neighbor as yourself."
-  > There is no other commandment greater than these.
-
-- **[Luke 10:27–28](https://www.biblegateway.com/passage/?search=Luke10:27–28&version=ESV)**  
-  > And he answered, "You shall love the Lord your God with all your heart and
-  > with all your soul
-  > and with all your strength and with all your mind, and your neighbor as
-  > yourself."
-  > And he said to him, "You have answered correctly; do this, and you will
-  > live."
-
-- **[Romans 13:8–10](https://www.biblegateway.com/passage/?search=Romans13:8–10&version=ESV)**  
-  > Owe no one anything, except to love each other, for the one who loves
-  > another has fulfilled the law.
-  > For the commandments, "You shall not commit adultery, You shall not murder,
-  > You shall not steal, You shall not covet,"
-  > and any other commandment, are summed up in this word: "You shall love your neighbor as yourself."
+```
+rev.elation
+rev.olution
+rev.ival
+```
 
 ---
 
-## Your Path to Spiritual Growth
+# Revelation: God is Love
 
-### Step 1: Love God
+Here's the revelation, **God is love**. God's love for us is perfect,
+unconditional, and immesurable. He loves you right now, as you read this. This
+page is an expression of God's love for you through the author writing it.
 
-Start your spiritual journey by nurturing a profound love for God. This involves:
-
-- **Prayer**: Spend time in prayer, expressing your love and devotion to God.
-- **Worship**: Engage in worship, both personally and with a community, to honor
-  God with your heart and mind.
-- **Obedience**: Follow God's commandments as an expression of your love for
-  Him.
-
-### Step 2: Love Your Neighbor
-
-Extend the love you have for God to those around you. This includes:
-
-- **Compassion**: Show kindness and empathy to others, reflecting Christ's love.
-- **Service**: Actively seek ways to serve and support those in need.
-- **Forgiveness**: Practice forgiveness, letting go of grudges and building
-  harmonious relationships.
-
-### Step n+1: Continuous Growth
-
-Spiritual growth is a continuous journey. As you grow in love for God and
-others, continue to seek ways to become more like Jesus:
-
-- **Study Scripture**: Regularly read and meditate on the Bible to understand
-  God's will.
-- **Community**: Engage with a community of believers for mutual encouragement
-  and growth.
-- **Reflection**: Regularly reflect on your spiritual journey and seek God's
-  guidance for the next steps.
+> Anyone who does not love does not know God, because God is love. **[1 John 4:8](https://www.biblegateway.com/passage/?search=1John4:8&version=ESV)**
 
 ---
 
-## Reflect and Respond
+# Revolution: Love God, love others
 
-Reflect on these questions as you begin your journey:
+There is a revolution of the self that begins to take place the second the Holy
+Spirit of God touches us. We may resist it, we may try to reason about it, but
+irrisistably it reaches out again and again.
 
-- How can you deepen your love for God in your daily life?
-- In what ways can you better love and serve your neighbors?
-- What steps can you take today to grow spiritually and become more like Jesus?
+Jesus was asked what is the greatest commandment...
 
-Thank you for joining Revival Now. May your journey be enriched with love, peace, and a deeper connection with God through Jesus Christ.
+> And he answered, "You shall love the Lord your God with all your heart and
+> with all your soul and with all your strength and with all your mind,
+> and your neighbor as yourself." **[Luke 10:27](https://www.biblegateway.com/passage/?search=Luke10:27&version=ESV)**
+
+It's all about love. Love God, love people.
 
 ---
 
-## Call to Action
+# Revival: Spread God's love
 
-We invite you to take the next step in your spiritual journey. Whether it's joining a community group, volunteering, or simply spending more time in prayer, every action brings you closer to a fulfilling spiritual life. Explore our resources and connect with us to learn more about how you can grow in faith and love.
+God wants us to feel his love. We do that by loving others as ourselves. We are
+all children of God that choose to walk in faith, hope, and love.
+
+> So now faith, hope, and love abide, these three; but the greatest of these is love **[1 Corithians 13:13](https://www.biblegateway.com/passage/?search=1Corinthians13:13&version=ESV)**
+
+---
+
+# Next Steps
+
+If you are ready to grow your faith [read on](/next-steps.html).
