@@ -25,18 +25,18 @@ rev.ival
 # Revelation: God is Love
 
 Here's the revelation, **God is love**. God's love for us is perfect,
-unconditional, and immesurable. He loves you right now, as you read this. This
+unconditional, and immeasurable. He loves you right now, as you read this. This
 page is an expression of God's love for you through the author writing it.
 
 > Anyone who does not love does not know God, because God is love. **[1 John 4:8](https://www.biblegateway.com/passage/?search=1John4:8&version=ESV)**
+
+Reflect on this: God's love is the foundation of our faith and the guiding principle of our lives.
 
 ---
 
 # Revolution: Love God, love others
 
-There is a revolution of the self that begins to take place the second the Holy
-Spirit of God touches us. We may resist it, we may try to reason about it, but
-irrisistably it reaches out again and again.
+A revolution within ourselves begins the moment the Holy Spirit of God touches us. We may resist it, we may try to reason about it, but irresistibly it reaches out again and again.
 
 Jesus was asked what is the greatest commandment...
 
@@ -51,12 +51,12 @@ It's all about love. Love God, love people.
 # Revival: Spread God's love
 
 God wants us to feel his love. We do that by loving others as ourselves. We are
-all children of God that choose to walk in faith, hope, and love.
+all children of God, called to walk in faith, hope, and love.
 
-> So now faith, hope, and love abide, these three; but the greatest of these is love **[1 Corithians 13:13](https://www.biblegateway.com/passage/?search=1Corinthians13:13&version=ESV)**
+> So now faith, hope, and love abide, these three; but the greatest of these is love. **[1 Corinthians 13:13](https://www.biblegateway.com/passage/?search=1Corinthians13:13&version=ESV)**
 
 ---
 
 # Next Steps
 
-If you are ready to grow your faith [read on](/next-steps.html).
+Are you ready to deepen your relationship with God? [Read on](/next-steps.html).
