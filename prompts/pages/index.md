@@ -50,10 +50,16 @@ It's all about love. Love God, love people.
 
 # Revival: Spread God's love
 
-God wants us to feel his love. We do that by loving others as ourselves. We are
-all children of God, called to walk in faith, hope, and love.
+God wants us to feel their love. We do that by loving others as ourselves. We
+are all children of God, called to walk in faith, hope, and love.
 
 > So now faith, hope, and love abide, these three; but the greatest of these is love. **[1 Corinthians 13:13](https://www.biblegateway.com/passage/?search=1Corinthians13:13&version=ESV)**
+
+Revival begins in the heart of each believer, inspiring us to live out our faith through acts of love and service in our communities.
+
+Revival is not just an event but a continuous process of spiritual renewal and transformation, driven by the Holy Spirit.
+
+As we embrace revival, we are called to be vessels of God's love, spreading Their message of hope and redemption to those around us.
 
 ---
 
