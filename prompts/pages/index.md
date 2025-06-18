@@ -14,11 +14,9 @@ Treating them as Jesus would treat them.
 
 This is the essence of Christianity and the mission of rev.now.
 
-```
-rev.elation
-rev.olution
-rev.ival
-```
+- [rev.elation](#revelation-god-is-love)
+- [rev.olution](#revolution-love-god-love-others)
+- [rev.ival](#revival-spread-the-love-of-god)
 
 ---
 
@@ -48,7 +46,7 @@ It's all about love. Love God, love people.
 
 ---
 
-# Revival: Spread God's love
+# Revival: Spread the love of God
 
 God wants us to feel their love. We do that by loving others as ourselves. We
 are all children of God, called to walk in faith, hope, and love.
